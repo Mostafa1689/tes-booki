@@ -1,0 +1,6 @@
+@media screen and (max-width: 375px) {
+    #content {
+        max-width: 100%;
+        width: 100%;
+    }
+}
